@@ -5,6 +5,10 @@ Aircraft measurments and simulation of biomass burning aerosols over West Africa
 John Smith, University of Elsewhere
 Kamilla Kopec-Harding, University of Manchester
 
+# Abstract
+
+A concise summary of our work and findings.
+
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
 Particle size was measured using a PCASP (Bloggs et al 2004).
