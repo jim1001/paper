@@ -13,3 +13,7 @@ but continental scale measurements have not previously been made.
 
 # Motivation
 Find out more about this important phenomenon.
+
+# Simulations
+We simulate the evolution of particle sizes as they are transported 
+away from the source region
