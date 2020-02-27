@@ -2,8 +2,8 @@
 Aircraft measurments and simulation of biomass burning aerosols over West Africa
 
 # Author
-Kamilla Kopec-Harding
 John Smith
+Kamilla Kopec-Harding
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
