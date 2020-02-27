@@ -1,8 +1,9 @@
 # Title 
-Aircraft measurments of biomass burning aerosols over West Africa
+Aircraft measurments and simulation of biomass burning aerosols over West Africa
 
 # Author
 Kamilla Kopec-Harding
+John Smith
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
@@ -12,3 +13,7 @@ but continental scale measurements have not previously been made.
 
 # Motivation
 Find out more about this important phenomenon.
+
+# Simulations
+We simulate the evolution of particle sizes as they are transported 
+away from the source region
