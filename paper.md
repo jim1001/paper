@@ -34,3 +34,7 @@ funding is required.
 
 # Figures
 All images are listed here
+
+# Acknowledgements
+
+With thanks to all our friends, family and funders.
