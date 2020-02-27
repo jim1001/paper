@@ -1,5 +1,5 @@
 # Title 
-Ageing of biomass burning aerosols over West Africa
+Aircraft measurments of biomass burning aerosols over West Africa
 
 # Author
 Kamilla Kopec-Harding
