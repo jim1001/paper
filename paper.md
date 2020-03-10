@@ -18,6 +18,9 @@ but continental scale measurements have not previously been made.
 # Motivation
 Find out more about this important phenomenon.
 
+# Previous studies
+Davies et al (2015) conducted a literature review of papers studying aircraft measurements of BBOA, including that of Jones et al (1998) mentioned in the introduction above.
+
 # Simulations
 We simulate the evolution of particle sizes as they are transported 
 away from the source region
